@@ -1,6 +1,6 @@
 # 📊 Superstore Sales Dashboard  
 
-![Dashboard](images/superstore-sales-dashboard.png)  
+![Dashboard](excel_superstore_sales_dashboard/images)  
 
 ## 📌 Objective  
 Analyze Superstore sales and profitability across regions, categories, and customer segments to uncover growth opportunities.  
