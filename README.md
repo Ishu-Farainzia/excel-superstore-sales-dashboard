@@ -7,6 +7,14 @@ Analyze Superstore sales and profitability across regions, categories, and custo
 
 ---
 
+## 📊 Dataset  
+- **Source:** [Sample - Superstore Dataset (Kaggle)](https://www.kaggle.com/datasets/superstore-dataset-final)  
+- **Records:** ~10,000 orders  
+- **Fields include:** Order Date, Ship Date, Region, Category, Sub-Category, Sales, Profit, Quantity, Discount, and Customer details.  
+- **Purpose:** This is a widely used dataset for practicing data visualization, sales analysis, and profitability studies.  
+
+---
+
 ## 📈 Key Metrics  
 - **Total Sales:** 💰 2,297,201  
 - **Total Profit:** 🏆 286,397  
